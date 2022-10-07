@@ -1,3 +1,2 @@
-[master (root-commit) be619f4] My first commit
- 1 file changed, 1 insertion(+)
- create mode 100644 README.md
+[master 15bfc7a] My first commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
